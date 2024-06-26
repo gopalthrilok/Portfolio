@@ -24,7 +24,7 @@ const Navbar = () => {
                         <div className="offcanvas-body">
                             <ul className="navbar-nav mb-2 mb-lg-0 ms-auto fs-5 text-center">
                                 <li className="nav-item  mx-3">
-                                    <Link className="nav-link active text-white" aria-current="page" to='/' style={{ color: '#C741FC' }}>Home</Link>
+                                    <Link className="nav-link active text-white" aria-current="page" to='/Portfolio' style={{ color: '#C741FC' }}>Home</Link>
                                 </li>
                                 <li className="nav-item mx-3">
                                     <Link className="nav-link text-white" to='/about' >About</Link>
